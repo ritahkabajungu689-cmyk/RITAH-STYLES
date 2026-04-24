@@ -3,7 +3,7 @@
 #  RITAH STYLES 
 ### *Tailoring & Fashion*
 
-![Ritah Styles Logo](./Assets/RITAH.jpg)
+![Ritah Styles Logo](./Assets/RITAH.png)
 
 **Where every stitch tells a story of elegance and grace.**
 
@@ -24,7 +24,7 @@ Ritah Styles is more than a fashion house; it is an atelier dedicated to the art
 
 ##  Technical Craftsmanship
 The website is engineered with the same attention to detail as our garments:
-* **Elegant UI:** Built using a sophisticated palette of `#faf7f4` (Cream) and `#c49a8a` (Rose Gold).
+* **Elegant UI:** Built using a sophisticated palette of Cream and Rose Gold.
 * **Fluid Responsive Design:** A custom CSS architecture that looks flawless from mobile screens to desktop monitors.
 * **Luxury Typography:** Featuring *Cormorant Garamond* for timeless headings and *Dancing Script* for a personal, handwritten touch.
 
