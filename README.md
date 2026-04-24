@@ -3,7 +3,7 @@
 #  RITAH STYLES 
 ### *Tailoring & Fashion*
 
-![Ritah Styles Logo](RITAH.jpg)
+![Ritah Styles Logo](./Assets/RITAH.jpg)
 
 **Where every stitch tells a story of elegance and grace.**
 
